@@ -1,4 +1,4 @@
-# Documentation > home
+# [Documentation > home](#documentation--home)
 
 Marnix Adaptive All-around Scripting Language, MAASL (pronounce: maa-sél) for short.
 
