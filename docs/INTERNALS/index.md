@@ -4,7 +4,7 @@
 
 ## List of MAASL-internals
 
-### [.](./dot/)
+### [. (the dot)](./dot/)
 
 The dot is used to switch modes or working directories.
 
