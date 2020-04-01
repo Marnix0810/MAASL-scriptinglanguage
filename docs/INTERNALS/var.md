@@ -1,6 +1,6 @@
-# Documentation > Internals >
+# [Documentation](../) > [Internals](./) >
 
-### [var](../)
+### [var](./)
 
 Set variables or change mode settings.
 

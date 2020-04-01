@@ -1,4 +1,4 @@
-# Documentation > internals
+# [Documentation](../) > [Internals](./)
 
 ## What are internals?
 
@@ -10,6 +10,6 @@ MAASL will have some internals that are handled before the modes can read them, 
 
 | internal name or command | function of internal                                    |
 | ------------------------ | ------------------------------------------------------- |
-| [. (the dot)](./dot/)    | The dot is used to switch modes or working directories. |
-| [var](./var/)            | Set variables or change mode settings.                  |
+| [. (the dot)](./dot)     | The dot is used to switch modes or working directories. |
+| [var](./var)             | Set variables or change mode settings.                  |
 
