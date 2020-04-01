@@ -1,4 +1,4 @@
-# MAASL-internals
+# Documentation > MAASL-internals
 
 ## What are internals?
 

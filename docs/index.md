@@ -1,4 +1,4 @@
-# MAASL-scriptinglanguage documentary
+# Documentation > home
 
 ## What is MAASL how does it work and differ from other languages?
 
