@@ -3,11 +3,11 @@
 
 ## This readme.md file contains:
 
-[What is MAASL?](#What-is-MAASL?)
+[What is MAASL?](#what-is-maasl)
 
-[How to start writing the processor?](#How-to-start-writing-the processor?)
+[How to start writing the processor?](#how-to-start-writing-the-processor)
 
-[How it will work]()
+[How it will work](#how-it-will-work)
 
 ## What is MAASL?
 
