@@ -1,0 +1,4 @@
+; Okay so a dot (.) will set modes from every mode
+.MLmode
+; Now we set a variable inside MLmode, language, to HTML, meaning that the html processing library is now receiving everything that used to go to MLmode itself.
+var MLmode.language=HTML
