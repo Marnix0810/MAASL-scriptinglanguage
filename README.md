@@ -1,5 +1,5 @@
 # MAASL-scriptinglanguage Project Readme
- Marnix Adaptive All-around Scripting Language, MAASL (pronounce: maa-sél) for short.
+ Marnix Adaptive All-around Scripting Language, MAASL (pronounce: maasél) for short.
 
 ## This readme.md file contains:
 
