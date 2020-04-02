@@ -1,6 +1,6 @@
-# [Documentation > home](#documentation--home)
+# [Documentation](#documentation--home) > [home](#documentation--home)
 
-Marnix Adaptive All-around Scripting Language, MAASL (pronounce: maa-sél) for short.
+Marnix Adaptive All-around Scripting Language, MAASL (pronounce: maasél) for short.
 
 ## What is MAASL how does it work and differ from other languages?
 
