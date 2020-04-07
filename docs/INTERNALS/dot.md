@@ -1,3 +1,8 @@
+---
+title: Internals > .
+description: The dot is used to switch modes or working directories.
+---
+
 # [Documentation](../) > [Internals](./) >
 
 ### [.](./)
