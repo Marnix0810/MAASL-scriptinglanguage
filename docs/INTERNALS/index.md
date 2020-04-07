@@ -1,3 +1,8 @@
+---
+title: Internals
+Description: "The internals are an exception, the internals are pre-processed without the mode to get in between, which means they are predefined and necessary to learn as a basis."
+---
+
 # [Documentation](../) > [Internals](./)
 
 ## What are internals?

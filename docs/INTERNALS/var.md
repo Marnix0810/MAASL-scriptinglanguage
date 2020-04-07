@@ -1,6 +1,9 @@
-# [Documentation](../) > [Internals](./) >
+---
+title: Internals > var
+description: Set variables or change mode settings.
+---
 
-### [var](./)
+# [Documentation](../) > [Internals](./) > var
 
 Set variables or change mode settings.
 
