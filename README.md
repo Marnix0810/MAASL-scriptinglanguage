@@ -7,8 +7,6 @@
 
 [What is MAASL?](#what-is-maasl)
 
-[How to start writing the processor?](#how-to-start-writing-the-processor)
-
 [How it will work](#how-it-will-work)
 
 ## The MAASL project status and planning
@@ -20,11 +18,17 @@ Instead of beginning to write code for the processor, I'll start writing example
 The process of creating MAASL:
 
 <font color="aqua">1</font>. Creating documentation. (Started)
+
 <font color="red">2</font>. Writing example scripts. (Started)
+
 <font color="purple">3</font>. Creating a system that enables databases and makes locating and downloading modes. (Not started)
+
 <font color="green">4</font>. Start designing and building a terminal that will accept MAASL commands. (Not started)
+
 <font color="brown">5</font>. Create and document a concept of how MAASL will look/be in detail. (Not started)
+
 <font color="gold">6</font>. Create and release a first release of MAASL. (Not started)
+
 <font color="lime">7</font>. Start writing a learning guide. (Not started)
 
 
