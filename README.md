@@ -44,4 +44,4 @@ Instead of loading or installing modules like for example [Python](https://docs.
 
 ### Internals
 
-MAASL will have some internals that are handled before the modes can read them, these internals will be listed in [INTERNALS.MD](docs/INTERNALS/index.md).
+MAASL will have some internals that are handled before the modes can read them, [these internals will be listed in the documentary](https://marnix0810.github.io/MAASL-scriptinglanguage/INTERNALS/).
