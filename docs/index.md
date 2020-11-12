@@ -17,7 +17,7 @@ Okay, so I was working on something and got a little out of my focus, so being d
 
 A scripting language that can do (human)language translations automatically, and can be used in different ways, like, it can be a real (programming) script, but also a markup language. Not like PHP, but actually like itself.
 
-Instead of loading or installing modules like for example [Python](https://docs.python.org/3/tutorial/modules.html), MAASL will have multiple modes, allowing to change how the code processor reads the code, and possible to download and run modes. It might even be possible for MAASL to transfer these modes over decentralized networks like for example [ZeroNet](https://zeronet.io/) using the [081Zeronet communications plugin](https://github.com/0810-Software/0810Zeronet-plugin-win).
+Instead of loading or installing modules like for example [Python](https://docs.python.org/3/tutorial/modules.html), MAASL will have multiple modes, allowing to change how the interpreter reads the code, and possible to download and run modes. It might even be possible for MAASL to transfer these modes over decentralized networks like for example [ZeroNet](https://zeronet.io/) using the [081Zeronet communications plugin](https://github.com/0810-Software/0810Zeronet-plugin-win).
 
 ## Scripting in MAASL
 
